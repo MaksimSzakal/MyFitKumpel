@@ -33,7 +33,7 @@ public class panel extends javax.swing.JFrame {
             }
         });
 
-        jButton3.setText("Lista zakupów");
+        jButton3.setText("Lista zakupuw");
         jButton3.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jButton3MouseClicked(evt);
