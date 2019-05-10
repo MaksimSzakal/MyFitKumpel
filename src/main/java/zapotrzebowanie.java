@@ -22,7 +22,7 @@ public class zapotrzebowanie extends javax.swing.JFrame {
 
         jComboBox3.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "Kobieta", "Mężczyzna"}));
 
-        jTextField2.setText("Waga");
+        jTextField2.setText("WagaJakUTwojejStarej");
 
         jTextField3.setText("Wzrost");
 
