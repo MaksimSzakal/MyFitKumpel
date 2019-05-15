@@ -6,7 +6,7 @@ public class listaZakupow extends javax.swing.JFrame {
 
     public listaZakupow() {
         initComponents();
-        setDefaultCloseOperation(panel.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(panel.DISPOSE_ON_CLOSE);
         setVisible(true);
     }
 

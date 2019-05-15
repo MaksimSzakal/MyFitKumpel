@@ -6,7 +6,7 @@ public class galeriaPrzemiany extends javax.swing.JFrame {
 
     public galeriaPrzemiany() {
         initComponents();
-        setDefaultCloseOperation(panel.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(panel.DISPOSE_ON_CLOSE);
         setVisible(true);
     }
 

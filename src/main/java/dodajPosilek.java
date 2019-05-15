@@ -7,7 +7,7 @@ public class dodajPosilek extends javax.swing.JFrame {
 
     public dodajPosilek() {
         initComponents();
-        setDefaultCloseOperation(panel.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(panel.DISPOSE_ON_CLOSE);
         setVisible(true);
     }
 

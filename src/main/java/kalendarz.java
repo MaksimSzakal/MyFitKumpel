@@ -2,7 +2,7 @@ public class kalendarz extends javax.swing.JFrame {
 
     public kalendarz() {
         initComponents();
-        setDefaultCloseOperation(panel.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(panel.DISPOSE_ON_CLOSE);
         setVisible(true);
     }
 
