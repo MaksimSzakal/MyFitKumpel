@@ -1,3 +1,5 @@
+package projekt;
+
 public class panel extends javax.swing.JFrame {
 
 
@@ -113,19 +115,19 @@ public class panel extends javax.swing.JFrame {
     }
 
     private void jButton2MouseClicked(java.awt.event.MouseEvent evt) {
-        // TODO add your handling code here:
+        kalendarz oknoKalendarza = new kalendarz();
     }
 
     private void jButton3MouseClicked(java.awt.event.MouseEvent evt) {
-        // TODO add your handling code here:
+        listaZakupow oknoListy = new listaZakupow();
     }
 
     private void jButton4MouseClicked(java.awt.event.MouseEvent evt) {
-        // TODO add your handling code here:
+        galeriaPrzemiany oknoGalerii =  new galeriaPrzemiany();
     }
 
     private void jButton5MouseClicked(java.awt.event.MouseEvent evt) {
-        // TODO add your handling code here:
+        dodajPosilek oknoDodawania = new dodajPosilek();
     }
 
 
